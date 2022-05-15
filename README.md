@@ -17,7 +17,7 @@ This Flutter project is developed with practice and hands-on with [Freezed](http
 
 ## 📱 Demo
 
-
+<img src="https://github.com/Insha-Siddiquii/flutter_with_freezed/blob/master/video/flutterFreezed.gif" width ="300"> 
 
 
 
